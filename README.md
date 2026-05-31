@@ -1,5 +1,5 @@
 # 💫 About Me:
-</> I am a software developer and a tech enthusiast trying to solve real-world problems using code and learning about machines<br>🔭  I’m currently working on Java and Spring Boot<br>🌱  I’m currently learning Microservices<br>⚡  Fun fact JAVA it's fun for some time, though it's a headache sometimes<br>📖  I love to know about others' research in tech and am open to collaborative projects
+</> I am a software developer and a tech enthusiast trying to solve real-world problems using code and learning about machines<br>🔭  I’m currently working on Java and Spring Boot<br>🌱  I’m currently learning Microservices<br>⚡  Fun fact JAVA it's fun for some time, though it's a headache sometimes<br>📖  I love to know about others's research in tech and am open to collaborative projects
 
 
 ## 🌐 Socials:
